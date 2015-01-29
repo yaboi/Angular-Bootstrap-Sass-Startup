@@ -1,2 +1,2 @@
-# Angular-Bootstrap-Sass-Startup
-A basic, prepackaged Angular App with Bootstrap. Rippin' and ready to go!
+# Angular Bootstrap (Sass) Startup
+Based on the Yeoman generator found here: https://github.com/yeoman/generator-angular
